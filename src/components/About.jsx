@@ -16,8 +16,8 @@ export default function About() {
               </p>
               <div className=' flex flex-row justify-end pr-5'>
                 <a href='https://www.instagram.com/ahmetkkaleli/' target='blank'><FaInstagram className='text-3xl cursor-pointer hover:text-pink-500 mr-5'/></a>
-                <a href='https://github.com/ahmetKaleli' target='blank'><FaLinkedin className='text-3xl cursor-pointer hover:text-blue-500 mr-5'/></a>
-                <a href='https://www.linkedin.com/in/ahmet-kaleli-28308a270/' target='blank'><IoLogoGithub className='text-3xl cursor-pointer hover:text-black-500'/></a>
+                <a href='https://github.com/ahmetKaleli' target='blank'><IoLogoGithub className='text-3xl cursor-pointer hover:text-blue-500 mr-5'/></a>
+                <a href='https://www.linkedin.com/in/ahmet-kaleli-28308a270/' target='blank'><FaLinkedin className='text-3xl cursor-pointer hover:text-black-500'/></a>
               </div>
           </div>
           <div >
