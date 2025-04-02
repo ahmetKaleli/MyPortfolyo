@@ -32,7 +32,7 @@ export default function Header() {
       <div className="flex flex-1 justify-center md:justify-end items-center ml-auto">
         <ul className="flex flex-row gap-x-6 font-bold cursor-pointer text-lg">
           <li className="hover:bg-gray-300 focus:bg-gray-500 px-2 py-1 rounded">
-            <a>Home</a>
+            <a href='/'>Home</a>
           </li>
           <li className="hover:bg-gray-300 focus:bg-gray-500 px-2 py-1 rounded">
             <a href="https://github.com/ahmetKaleli?tab=repositories" target="_blank">Projects</a>

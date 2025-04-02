@@ -1,5 +1,5 @@
 import React from 'react'
-import img from "../img/res.jpg"
+import img from "../img/foto.jpg"
 import { FaInstagram } from "react-icons/fa";
 import { FaLinkedin } from "react-icons/fa";
 import { IoLogoGithub } from "react-icons/io";
