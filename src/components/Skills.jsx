@@ -16,6 +16,7 @@ export default function Skills() {
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width={150} height={150} className='mb-5 mr-5 border-1 p-[10px]  border-gray-40 rounded-xl transition-transform transform hover:scale-110 cursor-pointer' />
         <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width={150} height={150} className='mb-5 mr-5 border-1 p-[10px]  border-gray-40 rounded-xl transition-transform transform hover:scale-110 cursor-pointer' />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width={150} height={150} className='mb-5 mr-5 border-1 p-[10px]  border-gray-40 rounded-xl transition-transform transform hover:scale-110 cursor-pointer' />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width={150} height={150} className='mb-5 mr-5 border-1 p-[10px]  border-gray-40 rounded-xl transition-transform transform hover:scale-110 cursor-pointer' />
       </div>
     </div>
 
